@@ -1,7 +1,7 @@
 package flags
 
 import (
-	"github.com/Brukhan/project/option"
+	"github.com/Brukhan/flagsAspn/option"
 )
 
 type Options struct {
